@@ -226,9 +226,13 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  text-decoration: none; }
+  text-decoration: none; 
+  color:#0c82f6
+}
   a:hover {
-    text-decoration: none; }
+    text-decoration: none; 
+    color:#50a5fb;
+  }
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
@@ -285,9 +289,7 @@ h1, h2, h3, h4, h5,
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
 
-.quicklinks {
-  color: #0c82f6;
-}
+
 
 .site-section {
   padding: 2.5em 0; }
@@ -355,10 +357,14 @@ h1, h2, h3, h4, h5,
   color: #fff;
 }
 
-.button {
+.btn-primary:active {
   background-color: #0c82f6;
-  border-radius: 2px;
+  border-color: #0c82f6;
   color: #fff;
+}
+
+.quicklink {
+  color: #0c82f6;
 }
 
 .bg-image {
