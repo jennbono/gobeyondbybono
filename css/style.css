@@ -349,24 +349,28 @@ h1, h2, h3, h4, h5,
   background-color: #0c82f6 !important;
   border-color: #0c82f6 !important;
   color: #fff !important;
+  outline: none;
 }
 
 .btn-primary:hover {
   background-color: #50a5fb !important;
   border-color: #50a5fb !important;
   color: #fff !important;
+  outline: none;
 }
 
 .btn-primary:active {
   background-color: #0c82f6 !important;
   border-color: #0c82f6 !important;
   color: #fff !important;
+  outline: none;
 }
 
 .btn-primary:focus-visible {
   background-color: #0c82f6 !important;
   border-color: #0c82f6 !important;
   color: #fff !important;
+  outline: none;
 }
 
 .quicklink {
