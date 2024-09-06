@@ -363,6 +363,12 @@ h1, h2, h3, h4, h5,
   color: #fff !important;
 }
 
+.btn-primary:focus-visible {
+  background-color: #0c82f6 !important;
+  border-color: #0c82f6 !important;
+  color: #fff !important;
+}
+
 .quicklink {
   color: #0c82f6;
 }
