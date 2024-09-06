@@ -346,21 +346,21 @@ h1, h2, h3, h4, h5,
       height: 300px !important; } }
 
 .btn-primary {
-  background-color: #0c82f6;
-  border-color: #0c82f6;
-  color: #fff;
+  background-color: #0c82f6 !important;
+  border-color: #0c82f6 !important;
+  color: #fff !important;
 }
 
 .btn-primary:hover {
-  background-color: #50a5fb;
-  border-color: #50a5fb;
-  color: #fff;
+  background-color: #50a5fb !important;
+  border-color: #50a5fb !important;
+  color: #fff !important;
 }
 
 .btn-primary:active {
-  background-color: #0c82f6;
-  border-color: #0c82f6;
-  color: #fff;
+  background-color: #0c82f6 !important;
+  border-color: #0c82f6 !important;
+  color: #fff !important;
 }
 
 .quicklink {
