@@ -373,6 +373,10 @@ h1, h2, h3, h4, h5,
   outline: none;
 }
 
+.text-primary {
+  color: #50a5fb !important;
+}
+
 .quicklink {
   color: #0c82f6;
 }
