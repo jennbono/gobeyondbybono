@@ -377,6 +377,10 @@ h1, h2, h3, h4, h5,
   color: #50a5fb !important;
 }
 
+.blog-info {
+  color:#50a5fb !important;
+}
+
 .quicklink {
   color: #0c82f6;
 }
