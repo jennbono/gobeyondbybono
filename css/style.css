@@ -381,8 +381,15 @@ h1, h2, h3, h4, h5,
   color:#50a5fb !important;
 }
 
-.image-size {
+.image-size-25 {
   max-width: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image-size-30 {
+  max-width: 30%;
   display: block;
   margin-left: auto;
   margin-right: auto;
